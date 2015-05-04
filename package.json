@@ -1,6 +1,6 @@
 {
   "name": "nibbler-runner-local",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Local runner for nibbler",
   "main": "index.js",
   "scripts": {
